@@ -1,0 +1,90 @@
+<svg fill="none" viewBox="0 0 900 450" width="900" height="450" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                .main-container {
+                    background: transparent;
+                    font-family: 'Courier New', monospace;
+                    display: flex;
+                    flex-direction: column;
+                    align-items: center;
+                    justify-content: center;
+                    padding: 20px;
+                }
+                .row {
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    gap: 30px;
+                    margin-bottom: 20px;
+                }
+                .ascii-text {
+                    color: #b78dff;
+                    white-space: pre;
+                    line-height: 1.1;
+                    font-weight: bold;
+                    font-size: 14px;
+                }
+                .glitch-image {
+                    height: 180px;
+                    width: 180px;
+                    object-fit: cover;
+                    border-radius: 50%;
+                }
+                .relative-box {
+                    position: relative;
+                }
+                .overlay-gif {
+                    position: absolute;
+                    top: -10px;
+                    left: 20px;
+                    pointer-events: none;
+                    opacity: 0.7;
+                }
+            </style>
+
+            <div class="main-container">
+                <div class="row">
+                    <div class="ascii-text" style="text-align: right;">
+██╗  ██╗███████╗██╗     ██╗      ██████╗   
+██║  ██║██╔════╝██║     ██║     ██╔═══██╗  
+███████║█████╗  ██║     ██║     ██║   ██║  
+██╔══██║██╔══╝  ██║     ██║     ██║   ██║  
+██║  ██║███████╗███████╗███████╗╚██████╔╝  
+╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝   
+
+███████╗███████╗███████╗██╗  ██╗███████╗██████╗   
+██╔════╝██╔════╝██╔════╝██║ ██╔╝██╔════╝██╔══██╗  
+███████╗█████╗  █████╗  █████╔╝ █████╗  ██████╔╝  
+╚════██║██╔══╝  ██╔══╝  ██╔═██╗ ██╔══╝  ██╔══██╗  
+███████║███████╗███████╗██║  ██╗███████╗██║  ██║  
+╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝   
+                    </div>
+                    <img src="https://raw.githubusercontent.com/dyneth02/dyneth02/main/resources/giphy.gif" class="glitch-image" />
+                </div>
+
+                <div class="row">
+                    <img src="https://raw.githubusercontent.com/dyneth02/dyneth02/main/resources/space-music.gif" class="glitch-image" />
+                    <div class="relative-box">
+                        <div class="ascii-text">
+██████╗ ██╗███╗   ██╗███████╗████████╗██╗  ██╗  
+██╔══██╗██║████╗  ██║██╔════╝╚══██╔══╝██║  ██║  
+██║  ██║██║██╔██╗ ██║█████╗     ██║   ███████║  
+██║  ██║██║██║╚██╗██║██╔══╝     ██║   ██╔══██║  
+██████╔╝██║██║ ╚████║███████╗   ██║   ██║  ██║  
+╚═════╝ ╚═╝╚═╝  ╚═══╝╚══════╝   ╚═╝   ╚═╝  ╚═╝  
+
+██╗  ██╗███████╗██████╗ ███████╗  
+██║  ██║██╔════╝██╔══██╗██╔════╝  
+███████║█████╗  ██████╔╝█████╗    
+██╔══██║██╔══╝  ██╔══██╗██╔══╝    
+██║  ██║███████╗██║  ██║███████╗  
+╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝  
+                        </div>
+                        <img src="https://simpcity.cr/custom/Effects/src/test1ff.gif" class="overlay-gif" width="400" height="80" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </foreignObject>
+</svg>
