@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/dyneth02/dyneth02/blob/main/resources/ezgif.com-crop.gif" width="720">
+    <img src="https://github.com/dyneth02/dyneth02/blob/main/resources/ezgif.com-crop.gif" width="512">
 </div>
 
 <div align="center">
