@@ -33,13 +33,14 @@
             <tr>
                 <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">Data Science & ML:</td>
                 <td>
-                <img height="40" src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,r,matlab" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" width="40" height="40" style="border-radius:0.75em; margin-left:0.45em"/> 
-                <img height="32" width="32" src="https://cdn.simpleicons.org/streamlit/FF4B4B" style="border-radius:0.75em; margin-left:0.45em; background-color: #242938; padding:0.32em">
-                <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="border-radius:0.75em; margin-left:0.45em; background-color:#242938">
-                <img height="32" width="32" src="https://cdn.worldvectorlogo.com/logos/pandas.svg" style="border-radius:0.75em; margin-left:0.45em; background-color:#fff; padding:0.32em">
-                <img height="32" width="32" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" style="border-radius:0.75em; margin-left:0.45em; background-color:#fff; padding:0.32em">
-                <svg height="32" style="margin-left:0.45em; background-color:#242938; border-radius:0.75em; padding:0.32em" id="e051aaf0-c11c-4c9b-b122-0e345a948faa" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18"><defs><clipPath id="a704ce45-5ca0-410c-9835-3f7dd166dfb6"><path d="M9.71,1.185a.711.711,0,0,1,.711-.711h4.263a.71.71,0,0,1,.71.711v15.63a.71.71,0,0,1-.71.711H3.316a.71.71,0,0,1-.71-.711V9.71A.71.71,0,0,1,3.316,9H6.158V5.448a.711.711,0,0,1,.711-.711H9.71Z" fill="#242938"/></clipPath><linearGradient id="a7d0ea34-430c-4819-b9b1-0a8a2dfdd52b" x1="214.573" y1="491.263" x2="222.068" y2="507.151" gradientTransform="translate(-206 -490.699)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#e6ad10"/><stop offset="1" stop-color="#c87e0e"/></linearGradient><linearGradient id="fa41d3b0-0611-4d16-b103-b71ec870a9cb" x1="211.689" y1="495.678" x2="217.993" y2="507.903" gradientTransform="translate(-206 -490.699)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#f6d751"/><stop offset="1" stop-color="#e6ad10"/></linearGradient><linearGradient id="ea08d23a-67c8-409f-90e3-67e0ce891091" x1="209.39" y1="499.368" x2="212.873" y2="507.624" gradientTransform="translate(-206 -490.699)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#f9e589"/><stop offset="1" stop-color="#f6d751"/></linearGradient></defs><g clip-path="url(#a704ce45-5ca0-410c-9835-3f7dd166dfb6)"><g><path d="M15.394.474V17.526H9.71V.474Z" fill="url(#a7d0ea34-430c-4819-b9b1-0a8a2dfdd52b)"/><path d="M11.842,5.448V17.526H6.158V4.737h4.973A.711.711,0,0,1,11.842,5.448Z" fill="url(#fa41d3b0-0611-4d16-b103-b71ec870a9cb)"/><path d="M2.606,9v8.526H8.29V9.71A.711.711,0,0,0,7.579,9Z" fill="url(#ea08d23a-67c8-409f-90e3-67e0ce891091)"/></g></g></svg></td>
+                    <img height="40" src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,r,matlab" />
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" width="40" height="40" style="border-radius:0.75em; margin-left:0.45em"/> 
+                    <img height="32" width="32" src="https://cdn.simpleicons.org/streamlit/FF4B4B" style="border-radius:0.75em; margin-left:0.45em; background-color: #242938; padding:0.32em">
+                    <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="border-radius:0.75em; margin-left:0.45em; background-color:#242938">
+                    <img height="32" width="32" src="https://cdn.worldvectorlogo.com/logos/pandas.svg" style="border-radius:0.75em; margin-left:0.45em; background-color:#fff; padding:0.32em">
+                    <img height="32" width="32" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" style="border-radius:0.75em; margin-left:0.45em; background-color:#fff; padding:0.32em">
+                    <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png?20210102182532" style="border-radius:0.75em; margin-left:0.45em; background-color:#fff; padding:0.32em">
+                </td>
             </tr>
             <tr>
                 <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">Backend & APIs:</td>
@@ -55,7 +56,6 @@
                     <img height="40" src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,firebase,supabase,prisma,kafka" />
                     <img height="40" width="40" src="https://cdn.simpleicons.org/apachehive/FDEE21" style="border-radius:12px; margin-left:0.45em; background-color:#242938;" hspace="4">
                     <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" style="border-radius:12px; margin-left:0.45em; background-color:#fff;">
-                    <img height="40" width="40" src="https://w7.pngwing.com/pngs/1/687/png-transparent-apache-spark-apache-http-server-scala-apache-software-foundation-data-processing-others-miscellaneous-text-orange-thumbnail.png" style="border-radius:12px; margin-left:0.45em; background-color:#fff;" hspace="4">
                     <img height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/apachespark/apachespark-original-wordmark.svg" style="border-radius:12px; margin-left:0.45em; background-color:#242938;" hspace="4">
                 </td>
             </tr>
