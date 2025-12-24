@@ -34,7 +34,7 @@
                 <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">Data Science & ML:</td>
                 <td>
                     <img height="40" src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,r,matlab" />
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" width="40" height="40" style="border-radius:0.75em; margin-left:0.45em"/> 
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" width="40" height="40" style="border-radius:12px; margin-left:0.45em"/> 
                     <img height="32" width="32" src="https://cdn.simpleicons.org/streamlit/FF4B4B" style="border-radius:0.75em; margin-left:0.45em; background-color: #242938; padding:0.32em">
                     <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="border-radius:0.75em; margin-left:0.45em; background-color:#242938">
                     <img height="32" width="32" src="https://cdn.worldvectorlogo.com/logos/pandas.svg" style="border-radius:0.75em; margin-left:0.45em; background-color:#fff; padding:0.32em">
