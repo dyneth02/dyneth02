@@ -28,8 +28,8 @@
 <div style="display:flex; justify-content:center; aligh-items:center; postion: relative">
     <!-- <img src="Resources/ghosty.gif" height="50" style="position: absolute; top:620; left:510"> -->
     <div style="inline-block">
-        <h2 style="text-align:center; margin-bottom:1.15em; postion: relative; font-family:Syne;">Languages, Frameworks, and Tools </h2>
-        <table>
+        <h2 style="text-align:center; margin-bottom:1.15em; postion: relative; font-family:Syne;" align="center">Languages, Frameworks, and Tools </h2>
+        <table align="center">
             <tr>
                 <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">Data Science & ML:</td>
                 <td>
