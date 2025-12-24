@@ -1,6 +1,12 @@
+<!--hero section-->
 <div align="center">
     <img src="https://github.com/dyneth02/dyneth02/blob/main/resources/ezgif.com-crop.gif" width="512">
 </div>
+
+<!--horizontal divider(gradiant)-->
+<span style="display:flex; justify-content:center; align-items:center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</span>
 
 <div align="center">
     <h2 style="font-family: sans-serif;">About Myself</h2>
@@ -12,3 +18,9 @@
         </tr>
     </table>
 </div>
+
+<!--horizontal divider(gradiant)-->
+<span style="display:flex; justify-content:center; align-items:center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</span>
+
