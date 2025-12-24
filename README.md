@@ -9,7 +9,7 @@
 </span>
 
 <div align="center">
-    <h2 style="font-family: sans-serif;">About Myself</h2>
+    <h1 style="font-family: Courier;"><img src="https://github.com/dyneth02/dyneth02/blob/main/resources/behold.gif" height="80">About Myself</h1>
     <table width="600px" border="none">
         <tr>
             <td align="justify" style="border: 0;">
