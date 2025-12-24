@@ -9,7 +9,7 @@
 </span>
 
 <div align="center">
-    <h1 style="font-family: Courier;"><img src="https://github.com/dyneth02/dyneth02/blob/main/resources/behold.gif" height="80">About Myself</h1>
+    <h1 style="font-family: Courier; font-size:50px"><img src="https://github.com/dyneth02/dyneth02/blob/main/resources/statue.gif" height="60">&nbspAbout Myself</h1>
     <table width="600px" border="none">
         <tr>
             <td align="justify" style="border: 0;">
@@ -28,7 +28,7 @@
 <div style="display:flex; justify-content:center; aligh-items:center; postion: relative">
     <!-- <img src="Resources/ghosty.gif" height="50" style="position: absolute; top:620; left:510"> -->
     <div style="inline-block">
-        <h2 style="text-align:center; margin-bottom:1.15em; postion: relative; font-family:Syne;" align="center">Languages, Frameworks, and Tools </h2>
+        <h1 style="text-align:center; margin-bottom:1.15em; postion: relative; font-family:Syne;" align="center"> Languages, Frameworks, and Tools&nbsp<img src="https://github.com/dyneth02/dyneth02/blob/main/resources/behold.gif" height="60"></h1>
         <table align="center">
             <tr>
                 <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">Data Science & ML:</td>
