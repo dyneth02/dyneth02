@@ -8,12 +8,12 @@
             </div>
         </span>
         <span>
-            <img src="Resources/giphy.gif" style="height:16.35rem; width:16.35rem; clip-path:circle()">
+            <img src="https://github.com/dyneth02/dyneth02/blob/main/resources/giphy.gif" style="height:16.35rem; width:16.35rem; clip-path:circle()">
         </span>
     </div>
     <div id="sub-2"  style="display:flex; justify-content:center; aligh-items:center">
         <span>
-            <img src="Resources/space-music.gif" style="height:16.5rem; width:16rem; clip-path:circle()">
+            <img src="https://github.com/dyneth02/dyneth02/blob/main/resources/space-music.gif" style="height:16.5rem; width:16rem; clip-path:circle()">
         </span>
         <span style="margin-left:2em">
             <div style="position:relative">
