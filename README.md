@@ -53,7 +53,7 @@
 
 <div align="center">
     <h2 style="font-family: sans-serif;"> About Myself</h2>
-    <p style="max-width: 800px; width:400px; text-align: justify; font-family: sans-serif;">
+    <p style="width:400px; text-align: justify; font-family: sans-serif;">
         I design AI, ML, and data systems where uncertainty is treated as a constraint, not a flaw. My work spans analytics, machine learning, and data engineering hence building pipelines, models, and reports that extract structure from noise. I value rigor over hype, explainability over spectacle. Comfortable with ambiguity, I optimize, measure, and iterate until patterns submit to discipline. I am motivated by difficult problems, accountable decisions, and turning controlled chaos into dependable insight for real-world impact contexts.
     </p>
 </div>
