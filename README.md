@@ -7,7 +7,7 @@
 <span style="margin-bottom:10px">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </span>
-<div align="center"><img src="https://github.com/dyneth02/dyneth02/blob/main/resources/statue.gif" height="150"></div>
+<div align="center"><img src="https://github.com/dyneth02/dyneth02/blob/main/resources/david.gif" height="150"></div>
 <div align="center">
     <h1 style="font-family: Courier; font-size:50px">&nbspAbout Myself</h1>
     <table width="600px" border="none">
