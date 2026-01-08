@@ -1,6 +1,6 @@
 <!--hero section-->
 <div align="center">
-    <img src="https://github.com/dyneth02/dyneth02/blob/main/resources/ezgif.com-crop.gif" width="512">
+    <img src="https://github.com/dyneth02/dyneth02/blob/main/resources/hero-60fps-optimize.gif" width="512">
 </div>
 
 <!--horizontal divider(gradiant)-->
