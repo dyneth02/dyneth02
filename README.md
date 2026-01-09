@@ -25,7 +25,7 @@
 </span>
 
 <!-- skills section -->
-<div align="center"><img src="https://github.com/dyneth02/dyneth02/blob/main/resources/rubic.gif" height="100"></div>
+<div align="center"><img src="https://github.com/dyneth02/dyneth02/blob/main/resources/astro-dance-2.gif" height="150"></div>
 <div style="display:flex; justify-content:center; aligh-items:center; postion: relative">
     <!-- <img src="Resources/ghosty.gif" height="50" style="position: absolute; top:620; left:510"> -->
     <div style="inline-block">
