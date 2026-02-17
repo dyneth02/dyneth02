@@ -24,6 +24,17 @@
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </span>
 
+<!--github streak-->
+<div align="center">
+    <h1 style="font-size:50px">&nbspGithub Stats</h1>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dyneth02&theme=tokyonight" alt="GitHub Streak" /></a>
+</div>
+
+<!--horizontal divider(gradiant)-->
+<span style="display:flex; justify-content:center; align-items:center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</span>
+
 <!-- skills section -->
 <div align="center"><img src="https://github.com/dyneth02/dyneth02/blob/main/resources/astro-dance-2.gif" height="150"></div>
 <div style="display:flex; justify-content:center; aligh-items:center; postion: relative">
