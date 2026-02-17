@@ -30,9 +30,9 @@
         <img src="https://github.com/dyneth02/dyneth02/blob/main/resources/solo-up.gif" width="200px" style="border-radius: 50%; object-fit: cover;">
     </span>
     <h1 style="font-size:50px">&nbspGithub Stats</h1>
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-stats-fast.vercel.app/api?username=dyneth02&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Rank" width="350px" /></a>
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dyneth02&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="350px" /></a>
-    <a href="https://git.io/streak-stats"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dyneth02&theme=tokyonight&hide_border=true" alt="GitHub Contribution" /></a>
+    <a href="https://github-readme-stats-fast.vercel.app/api?username=dyneth02&show_icons=true&theme=tokyonight&hide_border=true"><img src="https://github-readme-stats-fast.vercel.app/api?username=dyneth02&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Rank" width="350px" /></a>
+    <a href="https://streak-stats.demolab.com?user=dyneth02&theme=tokyonight&hide_border=true"><img src="https://streak-stats.demolab.com?user=dyneth02&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="350px" /></a>
+    <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dyneth02&theme=tokyonight&hide_border=true"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dyneth02&theme=tokyonight&hide_border=true" alt="GitHub Contribution" /></a>
 </div>
 
 <!--horizontal divider(gradiant)-->
