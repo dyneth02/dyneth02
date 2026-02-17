@@ -26,6 +26,9 @@
 
 <!--github streak-->
 <div align="center">
+    <span style="margin-bottom:10px">
+        <img src="https://github.com/dyneth02/dyneth02/blob/main/resources/solo-up.gif">
+    </span>
     <h1 style="font-size:50px">&nbspGithub Stats</h1>
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dyneth02&theme=tokyonight" alt="GitHub Streak" /></a>
 </div>
