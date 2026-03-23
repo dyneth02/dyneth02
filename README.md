@@ -27,7 +27,7 @@
 <!--github streak-->
 <div align="center">
     <span style="margin-bottom:10px">
-        <img src="https://github.com/dyneth02/dyneth02/blob/main/resources/solo-up.gif" width="200px" style="border-radius: 50%; object-fit: cover;">
+        <img src="https://github.com/dyneth02/dyneth02/blob/main/resources/solo-up.gif" width="175px" style="border-radius: 50%; object-fit: cover;">
     </span>
     <h1 style="font-size:50px">&nbspGithub Stats</h1>
     <a href="https://github-readme-stats-fast.vercel.app/api?username=dyneth02&show_icons=true&theme=tokyonight&hide_border=true"><img src="https://github-readme-stats-fast.vercel.app/api?username=dyneth02&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Rank" width="350px" /></a>
